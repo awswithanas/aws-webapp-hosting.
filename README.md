@@ -22,8 +22,6 @@ This project demonstrates hosting a highly available and scalable web applicatio
 6. Enabled CloudWatch alarms for instance health and CPU usage.
 7. Configured Route 53 domain to point to the ALB.
 
-   <img width="1060" height="567" alt="image" src="https://github.com/user-attachments/assets/237f9955-7b67-40f7-9771-fb12b743cfd4" />
-
 
 ## Key Learnings
 - Importance of Multi-AZ for high availability.
